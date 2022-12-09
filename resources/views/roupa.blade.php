@@ -7,7 +7,7 @@
   <div  class="card-body">
     <h5 class="card-title">Roupa Feminina Kit completo</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary"><i class="fa-sharp fa-solid fa-cart-shopping"></i> Adicionar ao carrinho</a>
+    <button onclick="Swal.fire('Adicionado ao carrinho com sucesso','','success')" class="btn btn-primary"><i class="fa-sharp fa-solid fa-cart-shopping"></i> Adicionar ao carrinho</button>
   </div>
 </div>
 <br>
